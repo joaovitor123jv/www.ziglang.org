@@ -7,9 +7,9 @@
 	"mobile_menu_title": "ZSF",
 },
 ---
-# Sponsoring the Zig Software Foundation
+# Patrocinando a Zig Software Foundation
 
-Please consider a recurring donation. It takes ongoing labor to maintain and support high-quality software!
+Por favor, considere uma doação recorrente. É necessário um trabalho contínuo para manter e oferecer suporte a um software de alta qualidade!
 
 ```=html
 <div id="zsf-every-donate-btn">
@@ -22,7 +22,7 @@ Please consider a recurring donation. It takes ongoing labor to maintain and sup
         selector: "#zsf-every-donate-btn",
         nonprofitSlug: "zig-software-foundation-inc",
         fontSize: "32px",
-        label: "Sponsor"
+        label: "Patrocine"
       });
       everyDotOrgDonateButton.createWidget({
         selector: "#zsf-every-donate-btn",
@@ -45,47 +45,47 @@ Please consider a recurring donation. It takes ongoing labor to maintain and sup
 ```
 
 
-# Mission statement
-The mission of the Zig Software Foundation is to promote, protect, and advance the Zig programming language, to support and facilitate the growth of a diverse and international community of Zig programmers, and to provide education and guidance to students, teaching the next generation of programmers to be competent, ethical, and to hold each other to high standards.
+# Missão
+A missão da Zig Software Foundation é promover, proteger e avançar a linguagem de programação Zig, suportar e facilitaro crescimento de uma comunidade de programadores diversa e internacional, e prover educação e orientação a estudantes, ensinando a próxima geração de programadores a ser competente, ética, e manter altos padrões uns com os outros.
 
-**ZSF is a 501(c)(3) non-profit corporation.** Finances, meeting minutes, and other details are [available to the public](https://drive.google.com/drive/folders/1ucHARxVbhrBbuZDbhrGHYDTsYAs8_bMH?usp=sharing).
+**ZSF é uma corporação 501(c)(3) sem fins lucrativos.** Finanças, notas de reuniões, e outros detalhes estão [disponíveis ao público](https://drive.google.com/drive/folders/1ucHARxVbhrBbuZDbhrGHYDTsYAs8_bMH?usp=sharing).
 
 # Board members
 
-- [Andrew Kelley](https://andrewkelley.me/) (President)
-- [Josh Wolfe](https://github.com/thejoshwolfe/) (Secretary)
-- [Mason Remaley](https://www.masonremaley.com/) (Treasurer)
+- [Andrew Kelley](https://andrewkelley.me/) (Presidente)
+- [Josh Wolfe](https://github.com/thejoshwolfe/) (Secretário)
+- [Mason Remaley](https://www.masonremaley.com/) (Tesoureiro)
 
-# Sponsorship
+# Patrocínio
 
-By donating to ZSF, you are funding development of the Zig Programming Language and its ecosystem, which in turn benefits the greater open source community. Zig community members have landed bug fixes in [LLVM](https://llvm.org/), [Wine](https://winehq.org/), [QEMU](https://qemu.org/), [musl libc](https://musl.libc.org/), [GDB](https://www.gnu.org/software/gdb/) and others.
+Ao doar à ZSF, você incentiva o desenvolvimento da linguagem de programação Zig e seu ecosistema, o que beneficia uma parte maior da comunidade open source. Os membros da comunidade Zig já fizeram correções de bugs em [LLVM](https://llvm.org/), [Wine](https://winehq.com), [QEMU](https://qemu.org/), [musl libc](https://musl.libc.org), [GDB](https://www.gnu.org/software/gdb/) e outros.
 
-ZSF is a small organization and makes efficient use of monetary resources. The plan is to keep it that way, but we do want to turn our unpaid volunteers into paid maintainers to help merge pull requests and make swifter progress towards 1.0. The whole point of ZSF being non-profit is to benefit people. We're trying to get open source maintainers paid for their time.
+ZSF é uma organização pequena e faz uso eficiente de recursos monetários. O plano é continuar desta forma, mas almejamos transformar nossos voluntários em mantenedores pagos para ajudar a mesclar pull requests e fazer um progresso mais suave rumo à versão 1.0. O conceito da ZSF ser sem fins lucrativos é beneficiar as pessoas. Estamos tentando fazer com que os mantenedores de código aberto sejam pagos pelo seu tempo.
 
-# Donation information
-Here's useful information to donate through means other than GitHub Sponsors.
-Make sure to check your local law to see if you can deduct donations from your taxes.
+# Informação de doação
+Aqui estão informações úteis para doar por meios alternativos ao GitHub Sponsors.
+Verifique com sua legislação local se você pode deduzir doações de seus impostos. 
 
 ## EIN
 84-5105214
 
-## Address
+## Endereço
 Zig Software Foundation
 1632 1st Ave #21385
 New York, NY 10028
 
-## Additional donation methods supported
+## Métodos adicionais de doação suportados
 - [Every](https://www.every.org/zig-software-foundation-inc/)
 - [GitHub Sponsors](https://github.com/sponsors/ziglang)
-- [Benevity](https://benevity.com) (recommended if your employer matches donations!)
-- Bank transfers (including from outside of the US, contact us for more info)
-- Physical checks (see the snail mail address listed above)
+- [Benevity](https://benevity.com) (recomendado se seu empregador fizer correspondência de doações!)
+- Transferências bancárias (incluindo tranferências de fora dos Estados Unidos, entre em contato para mais informações)
+- Cheques físicos (veja o endereço de correio físico listado acima)
 - [Wise](https://wise.com)
 
-**Please don't hesitate to contact us at donations@ziglang.org if you have questions or specific needs.**
+**Por favor, não hesite em entrar em contato via donations@ziglang.org caso tenha dúvidas ou necessidades específicas.**
 
-# Corporate sponsors
+# Patrocinadores corporativos
 
-## Monetary donations
-The following companies are providing direct financial support to the Zig Software foundation by donating more than $1000/mo.
+## Doações monetárias
+As seguintes empresas financiando diretamente a Zig Software Foundation ao doar mais que $1000/mês.
 []($code.language('=html').siteAsset('corporate-sponsors.html'))

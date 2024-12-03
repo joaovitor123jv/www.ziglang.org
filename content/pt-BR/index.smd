@@ -1,63 +1,63 @@
 ---
-.title = "Home",
+.title = "Início",
 .author = "",
 .date = @date("2024-08-07:00:00:00"),
 .layout = "index.shtml",
 .custom = {
-	"mobile_menu_title": "Home",
+	"mobile_menu_title": "Início",
 },
 ---
 
 []($section.id("slogan"))
-Zig is a general-purpose programming language and toolchain for maintaining **robust**, **optimal** and **reusable** software.
+Zig é uma linguagem de programação de propósito geral e uma cadeia de ferramentas feitas para manter software **robusto**, **otimizado** e **reutilizável**. 
 
 []($section.id("features"))
-## ⚡ A Simple Language
-Focus on debugging your application rather than debugging your programming language knowledge.
+## ⚡ Uma linguagem simples
+Foque em debugar sua aplicação no lugar de debugar seu conhecimento em linguagem de programação.
 
-- No hidden control flow.
-- No hidden memory allocations.
-- No preprocessor, no macros.
+- Sem controle de fluxo oculto.
+- Sem alocações de memória ocultas.
+- Sem preprocessador, nem macros.
 
 ## ⚡ Comptime
-A fresh approach to metaprogramming based on compile-time code execution and lazy evaluation.
+Uma abordagem nova à metaprogramação baseada em código executado em tempo de compilação e lazy evaluation.
 
-- Call any function at compile-time.
-- Manipulate types as values without runtime overhead.
-- Comptime emulates the target architecture.
+- Chame qualquer função em tempo de compilação.
+- Manipule tipos como valores sem overhead de tempo de execução.
+- Comptime emula a arquitetura do alvo.
 
-## ⚡ Maintain it with Zig
-Incrementally improve your C/C++/Zig codebase.
+## ⚡ Mantenha com Zig
+Melhore seu codebase C/C++/Zig incrementalmente com o Zig.
 
-- Use Zig as a zero-dependency, drop-in C/C++ compiler that supports cross-compilation out-of-the-box.
-- Leverage `zig build` to create a consistent development environment across all platforms.
-- Add a Zig compilation unit to C/C++ projects, exposing the rich standard library to your C/C++ code.
-
-
-# [Community]($section.id("community").attrs("section-title"))
-
-## [The Zig community is decentralized]($section.id("decentralized"))
-Anyone is free to start and maintain their own space for the community to gather.
-There is no concept of "official" or "unofficial", however, each gathering place has its own moderators and rules.
+- Use o Zig como um compilador drop-in de C/C++ sem dependências que suporta compilação cruzada out-of-the-box.
+- Utilize o `zig build` para criar um ambiente de desenvolvimento consistente por todas as plataformas.
+- Adicione uma unidade de compilação Zig a projetos C/C++, expondo a rica biblioteca padrão ao seu código C/C++.
 
 
-## [Main development]($section.id("main-development"))
-The Zig repository can be found at [https://github.com/ziglang/zig](https://github.com/ziglang/zig), where we also host the issue tracker and discuss proposals.
-Contributors are expected to follow Zig's [Code of Conduct](https://github.com/ziglang/zig/blob/master/.github/CODE_OF_CONDUCT.md).
+# [Comunidade]($section.id("community").attrs("section-title"))
+
+## [A comunidade Zig é descentralizada]($section.id("decentralized"))
+Qualquer um é livre para começar e manter seu próprio espaço para a comunidade se juntar.
+Não existe o conceito de "oficial" ou "não-oficial", entretanto, cada local de encontrol tem seus próprios moderadores e regras.
+
+
+## [Desenvolvimento principal]($section.id("main-development"))
+O repositório Zig pode ser encontrado em [https://github.com/ziglang/zig](https://github.com/ziglang/zig), onde nós também hospedamos o rastreador de problemas e discutimos propostas.
+Espera-se que os colaboradores sigam o [Código de Conduta](https://github.com/ziglang/zig/blob/master/.github/CODE_OF_CONDUCT.md) do Zig.
 
 
 # [Zig Software Foundation]($section.id("zsf").attrs("section-title"))
 
-## The ZSF is a 501(c)(3) non-profit corporation.
+## A ZSF é uma organização 501(c)(3) sem fins lucrativos.
 
-The Zig Software Foundation is a non-profit corporation founded in 2020 by Andrew Kelley, the creator of Zig, with the goal of supporting the development of the language. Currently, the ZSF is able to offer paid work at competitive rates to a small number of core contributors. We hope to be able to extend this offer to more core contributors in the future.
+A Zig Software Foundation é uma organização sem fins lucrativos fundada em 2020 por Andrew Kelley, o criador do Zig, com o objetivo de apoiar o desenvolvimento da linguagem. Atualmente, a ZSF é capaz de oferecer trabalhos remunerados com salários competitivas para um pequeno número de colaboradores principais. Esperamos que sejamos capazes de estender esta oferta a mais contribuidores no futuro.
 
-The Zig Software Foundation is sustained by donations.
+A Zig Software Foundation é sustentada por doações.
 
-# [Sponsors]($section.id("sponsors").attrs("section-title"))
+# [Patrocinadores]($section.id("sponsors").attrs("section-title"))
 
-## [Corporate Sponsors]($section.id("corporate-sponsors"))
-The following companies are providing direct financial support to the Zig Software foundation.
+## [Patrocinadores Corporativos]($section.id("corporate-sponsors"))
+As seguintes empresas estão provendo suporte financeiro direto à Zig Software Foundation.
 
-## [GitHub Sponsors]($section.id("github-sponsors"))
-Thanks to people who [sponsor Zig]($link.page('zsf')), the project is accountable to the open source community rather than corporate shareholders. In particular, these fine folks sponsor Zig for $200/month or more:
+## [Patrocinadores GitHub]($section.id("github-sponsors"))
+Agradecemos às pessoas que [patrocinam o Zig]($link.page('zsf')), o projeto presta contas para a comunidade open source no lugar de acionistas corporativos. Em particular, essas pessoas maravilhosas patrocinam o Zig com $200/mês ou mais:

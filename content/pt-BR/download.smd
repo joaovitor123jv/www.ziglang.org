@@ -9,11 +9,11 @@
 },
 ---
 # Releases
-You can also [install Zig from a package manager](https://github.com/ziglang/zig/wiki/Install-Zig-from-a-Package-Manager).
+Você também pode [instalar o Zig por um gerenciador de pacotes](https://github.com/ziglang/zig/wiki/Install-Zig-from-a-Package-Manager).
 
-There is a [JSON version of this page]($link.siteAsset('download/index.json')).
+Existe uma [versão em JSON desta página]($link.siteAsset('download/index.json'));
 
-Files are signed with [minisign](https://jedisct1.github.io/minisign/) using this public key:
+Os arquivos são assinados com [minisign](https://jedisct1.github.io/minisign/) usando esta chave pública:
 
 ```
 RWSGOq2NVecA2UPNdBUZykf1CCb147pkmdtYxgb3Ti+JO/wCYvhbAb/U
